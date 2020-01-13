@@ -23,9 +23,13 @@ You can see more details about it in #269 description
 ![validations](https://user-images.githubusercontent.com/1202463/66198190-2c0f5600-e69c-11e9-936e-82763cc5916c.gif)
 
 Hooks not has leaks and the behavior of cpu is correct using useMemo and useCallback
+
+
 ![validationsCPU](https://user-images.githubusercontent.com/1202463/66198284-5f51e500-e69c-11e9-879b-57c69843c3b0.gif)
 
 Inputs fields needs fix their height
+
+
 ![validationsFixHeight](https://user-images.githubusercontent.com/1202463/66198331-78f32c80-e69c-11e9-8306-4f59f2a5d6ad.gif)
 
 
